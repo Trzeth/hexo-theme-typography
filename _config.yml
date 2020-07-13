@@ -1,12 +1,12 @@
-title_primary: "活版印字" # the bigger text
-title_secondary: "Typography" # the smaller text
+title_primary: "t's 幻想坑" # the bigger text
+title_secondary: "希望都能实现" # the smaller text
 keywords:
 
 twitter: #username
-rss: atom.xml
+rss: #atom.xml
 weibo: #username/id
 instagram: #username
-github: #username
+github: trzeth
 
 # Choose the comment service according to your need.
 # Please do not use the two services at the same time.
